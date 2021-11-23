@@ -33,6 +33,10 @@
 2. Exploratory Analysis with Visualization
 3. Visualize Travel Data
 
+### Software
+- python 3.7
+- Jupyter Notebook
+
 ### Dependencies
 - pandas
 - random
