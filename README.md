@@ -79,7 +79,7 @@
 ![US Map](https://github.com/srfassihi/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map2.png?raw=true)
 
 ### Deliverable 3: Travel Itinerary Map
-![Directions](https://github.com/srfassihi/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true =250x)
+![Directions](https://github.com/srfassihi/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png?raw=true=250x)
 
-![City Markers](https://github.com/srfassihi/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true =250x)
+![City Markers](https://github.com/srfassihi/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png?raw=true=250x)
 
