@@ -62,11 +62,11 @@
 - Google Maps Directions (Requires Key & Credit Card info)
 
 ### Documentation Links
-[OpenWeatherMap Current Weather API](https://openweathermap.org/current)
-[Google Directions API](https://developers.google.com/maps/documentation/directions/overview)
-[gmaps](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html#directions-layer)
-[to_numpy](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_numpy.html)
-[concat](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html)
+1. [OpenWeatherMap Current Weather API](https://openweathermap.org/current)
+2. [Google Directions API](https://developers.google.com/maps/documentation/directions/overview)
+3. [gmaps](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html#directions-layer)
+4. [to_numpy](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_numpy.html)
+5. [concat](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.concat.html)
 
 ## Results
 
